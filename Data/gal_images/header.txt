@@ -1,0 +1,398 @@
+SIMPLE  =                    T / Fits standard
+BITPIX  =                  -32 / Bits per pixel
+NAXIS   =                    2 / Number of axes
+NAXIS1  =                 1545 / Axis length
+NAXIS2  =                 1547 / Axis length
+EXTEND  =                    F / File may contain extensions
+ORIGIN  = 'NOAO-IRAF FITS Image Kernel July 2003' / FITS file originator
+DATE    = '2020-03-24T13:51:38' / Date FITS file was generated
+IRAF-TLM= '2020-03-24T13:51:37' / Time of last modification
+OBJECT  = 'NGC1257 2'          / Name of the object observed
+OBSERVAT= 'LaPalma        '
+TELESCOP= 'NOT            '
+INSTRUME= 'NOTCAM         '
+DETNAME = 'Hawaii 1k - science grade array  (9-405R-A1 #244)'
+FILENAME= 'NCCb180333.fits'
+TM_START=              81984.9 / 22:46:24.9         UT start time
+TM_END  =              82002.5 / 22:46:42.5         UT end time
+EXPMODE = 'mexp 10.0 3'
+OBSERVER= 'Joonas & Shane '
+IMAGETYP= 'OBJECT  '
+CHIPID  = 'HAWAII SWIR     '
+TM-START=              81984.9 / 22:46:24.9         UT start time
+SHSTAT  = 'OPEN          '
+IMAGECAT= 'SCIENCE '
+PROPID  = '58-302  '
+PROPTITL= 'Tidal disruption events in luminous infrared galaxies '
+PINAME  = 'Seppo Mattila '
+GROUPID = 'N/A     '
+BLOCKID = 'N/A     '
+SEQID   = 'N/A     '
+NCAPRNM = 'Open Large         ' / NOTcam aperture wheel. Name
+NCAPRID =                 1006 / NOTcam aperture wheel. NOT ID
+NCAPRPOS=                    4 / NOTcam aperture wheel. Slot pos
+NCAPRSTP=                28360 / NOTcam aperture wheel. Step pos
+NCAPRALG= 'N       '           / NOTcam aperture wheel. Aligned
+NCAPRORI= 'Any       '         / NOTcam aperture wheel. Orientation
+NCFLTNM1= 'Open               ' / NOTcam filter wheel 1. Name
+NCFLTID1=                 1007 / NOTcam filter wheel 1. NOT ID
+NCFLTPO1=                   15 / NOTcam filter wheel 1. Slot pos
+NCFLTST1=                98438 / NOTcam filter wheel 1. Step pos
+NCFLTOR1= 'Any       '         / NOTcam filter wheel 1. Orientation
+NCFLTNM2= 'Ks                 ' / NOTcam filter wheel 2. Name
+NCFLTID2=                  207 / NOTcam filter wheel 2. NOT ID
+NCFLTPO2=                   10 / NOTcam filter wheel 2. Slot pos
+NCFLTST2=                63481 / NOTcam filter wheel 2. Step pos
+NCFLTOR2= 'Any       '         / NOTcam filter wheel 2. Orientation
+NCSTPNM = '15mm ring          ' / NOTcam stop wheel. Name
+NCSTPID =                  647 / NOTcam stop wheel. NOT ID
+NCSTPPOS=                   12 / NOTcam stop wheel. Slot pos
+NCSTPSTP=                77020 / NOTcam stop wheel. Step pos
+NCSTPALG= 'Y       '           / NOTcam stop wheel. Aligned
+NCSTPORI= 'Any       '         / NOTcam stop wheel. Orientation
+NCGRNM  = 'Open               ' / NOTcam grism wheel. Name
+NCGRID  =                 1010 / NOTcam grism wheel. NOT ID
+NCGRPOS =                    2 / NOTcam grism wheel. Slot pos
+NCGRSTP =                 7031 / NOTcam grism wheel. Step pos
+NCGRALG = 'N       '           / NOTcam grism wheel. Aligned
+NCGRORI = 'Any       '         / NOTcam grism wheel. Orientation
+NCCAMNM = 'WF Camera          ' / NOTcam lens wheel. Name
+NCCAMID =                  651 / NOTcam lens wheel. NOT ID
+NCCAMPOS=                    1 / NOTcam lens wheel. Slot pos
+NCCAMSTP=                    1 / NOTcam lens wheel. Step pos
+NCCAMALG= 'N       '           / NOTcam lens wheel. Aligned
+NCCAMORI= 'Any       '         / NOTcam lens wheel. Orientation
+NCFOCUS =                 5650 / NOTcam internal camera step position
+DETTEMP =              -199.10 / NOTcam detector temperature
+COLDTBL =              -200.50 / Cold Table temperature
+OUTVESS =                 3.50 / Outer Vessel temperature
+CNTWHEE =              -199.90 / Center Wheel temperature
+PRESSUR =             1.10E-04 / NOTcam pressure
+NCAPRSLX=                  0.0 / Current aperture detector X position
+NCAPRSLY=                  0.0 / Current aperture detector Y position
+BFLMP1  =                    0 / B. lamp 1 (on/off)
+BFLMP1ID= 'Model 64614 OSRAM 12 V 75W G5,3. Installed 11-07-2008.' / Baffle lamp
+BFLMP1NM= 'Halogen '           / Baffle lamp 1 verbose name
+BFLMP2  =                    0 / B. lamp 2 (on/off)
+BFLMP2ID= 'Oriel Pencil Shape spectral lamp 6030. Installed 2008.' / Baffle lamp
+BFLMP2NM= 'Argon   '           / Baffle lamp 2 verbose name
+BFLMP3  =                    0 / B. lamp 3 (on/off)
+BFLMP3ID= 'Oriel Pencil Shape spectral lamp 6033. Installed 2004.' / Baffle lamp
+BFLMP3NM= 'Xenon   '           / Baffle lamp 3 verbose name
+UT      =        22.7813888889 / TCS UTC at start (22h:46m:53.0s)
+ST      =         7.4969444444 / Sidereal time at start ( 7h:29m:49.0s)
+RA      =        49.9236197986 / Right ascention at start ( 3h:19m:41.67s)
+DEC     =        41.4930242229 / Declination at start (41d:29m:34.9s)
+RADECSYS= 'FK5     '
+TELALT  =                38.83 / Telescope altitude
+AZIMUTH =               121.99 / Telescope azimuth
+AIRMASS =         1.5949217081 / Airmass at start (sec(z))
+FIELD   =               -89.99 / Field rotation at start
+ROTPOS  =              -173.44 / Rotator angle at start
+CCDPROBE= 'park    '           / CCD probe
+AUXPOS  =                17301 / Autoguider probe X position
+AUYPOS  =               133659 / Autoguider probe Y position
+AUBXXPOS=                  252 / Autoguider box X position
+AUBXYPOS=                  231 / Autoguider box Y position
+AUSTATUS= 'on      '           / Autoguider status
+ADCARM  = 'OUT     '           / ADC arm position
+ADCMODE = 'MANUAL  '           / ADC mode
+ADC1ANG =             -0.00007 / ADC prism 1 angle
+ADC2ANG =              0.00000 / ADC prism 2 angle
+ADC1ENC =                  -99 / ADC prism 1 encoder position
+ADC2ENC =                  -99 / ADC prism 2 encoder position
+TELFOCUS=                22609 / Telescope focus at start
+TCSTGT  = 'NGC1275 '           / TCS Catalogue Entry
+OBJRA   =         49.945833333 / Catalogue RA in decimal deg.
+OBJDEC  =         41.510277776 / Catalogue DEC in decimal deg.
+OBJPMRA =         0.0000000000 / Catalogue proper motion in RA
+OBJPMDEC=         0.0000000000 / Catalogue proper motion in DEC
+OBJEQUIN=               2000.0 / Catalogue equinox for coordinates
+CREATOR = 'NOT2MEF V1.5'       / rev. date: 2006-06-29, CFITSIO V2.51
+COMMENT Original key: "EQUINOX"
+_QUINOX =               2000.0
+OBSGEO-X=         5327395.9638 / Cartesian Coordinate X
+OBSGEO-Y=        -1719170.4876 / Cartesian Coordinate Y
+OBSGEO-Z=          3051490.766 / Cartesian Coordinate Z
+OBS_MODE= 'Imaging '
+QCDDATE = '2011-02-12'         / Amplifier characteristics reference date
+GAIN1   =             2.64E+00 / [e-/ADU] Gain
+GAIN2   =             2.62E+00 / [e-/ADU] Gain
+GAIN3   =             2.68E+00 / [e-/ADU] Gain
+GAIN4   =             2.65E+00 / [e-/ADU] Gain
+RDNOISE1=             8.10E+00 / [e-] Read-out noise
+RDNOISE2=             8.10E+00 / [e-] Read-out noise
+RDNOISE3=             9.20E+00 / [e-] Read-out noise
+RDNOISE4=             8.90E+00 / [e-] Read-out noise
+DETSEC1 = '[1:512,1:512]'      / Location in final mosaic
+DETSEC2 = '[513:1024,1:512]'   / Location in final mosaic
+DETSEC3 = '[1:512,513:1024]'   / Location in final mosaic
+DETSEC4 = '[513:1024, 513:1024]' / Location in final mosaic
+CCDSEC1 = '[1:512,1:512]'      / Location in amplifier mosaic
+CCDSEC2 = '[513:1024,1:512]'   / Location in amplifier mosaic
+CCDSEC3 = '[1:512,513:1024]'   / Location in amplifier mosaic
+CCDSEC4 = '[513:1024, 513:1024]' / Location in amplifier mosaic
+DATASEC1= '[1:512,1:512]'      / Location of data pixels
+DATASEC2= '[513:1024,1:512]'   / Location of data pixels
+DATASEC3= '[1:512,513:1024]'   / Location of data pixels
+DATASEC4= '[513:1024, 513:1024]' / Location of data pixels
+TRIMSEC1= '[1:512,1:512]'      / Location of useful data
+TRIMSEC2= '[513:1024,1:512]'   / Location of useful data
+TRIMSEC3= '[1:512,513:1024]'   / Location of useful data
+TRIMSEC4= '[513:1024, 513:1024]' / Location of useful data
+CRX1    =            5.002E+02 / Reference pixel on 1st axis
+CRX2    =           -1.180E+01 / Reference pixel on 1st axis
+CRX3    =            5.002E+02 / Reference pixel on 1st axis
+CRX4    =           -1.180E+01 / Reference pixel on 1st axis
+CRY1    =            5.317E+02 / Reference pixel on 2nd axis
+CRY2    =            5.317E+02 / Reference pixel on 2nd axis
+CRY3    =            1.970E+01 / Reference pixel on 2nd axis
+CRY4    =            1.970E+01 / Reference pixel on 2nd axis
+QCRDATE = '2011-10-12'         / Instrument rotation centre reference date
+BUNIT   = 'count   '           / Physical unit of data array
+COMMENT Original key: "CTYPE1"
+_TYPE1  = 'RA---TAN'           / Gnomonic projection
+COMMENT Original key: "CTYPE2"
+_TYPE2  = 'DEC--TAN'           / Gnomonic projection
+COMMENT Original key: "CRVAL1"
+_RVAL1  =        49.9236197986 / [deg] RA at reference point
+COMMENT Original key: "CRVAL2"
+_RVAL2  =        41.4930242229 / [deg] Dec at reference point
+COMMENT Original key: "CUNIT1"
+_UNIT1  = 'deg     '           / Unit of 1st axis
+COMMENT Original key: "CUNIT2"
+_UNIT2  = 'deg     '           / Unit of 2nd axis
+COMMENT Original key: "CRPIX1"
+_RPIX1  =                509.2 / Reference pixel on 1st axis
+COMMENT Original key: "CRPIX2"
+_RPIX2  =                531.7 / Reference pixel on 2nd axis
+COMMENT Original key: "CD1_1"
+_D1_1   =  -1.7351946012738E-8 / Transformation matrix for primary WCS
+COMMENT Original key: "CD1_2"
+_D1_2   =  6.53266447662543E-5 / Transformation matrix for primary WCS
+COMMENT Original key: "CD2_1"
+_D2_1   =  6.53209169192980E-5 / Transformation matrix for primary WCS
+COMMENT Original key: "CD2_2"
+_D2_2   =  -1.7586476835076E-8 / Transformation matrix for primary WCS
+IMAGEID =                    1
+CCDNAME = 'SWIR3   '
+CCDSUM  = '1 1     '           / On-chip binning factors
+NCOMBINE=                   12 / Number of frames used in average
+EXPTIME =                  10. / [s] Exposure time
+DATE-OBS= '2019-02-18T22:45:47.5' / Estimated start of sequence
+DATE-AVG= '2019-02-18T22:46:13.2' / Estimated midpoint for this average
+FLAT    = 'Flatfield image is flat_207.fits'
+SKY     = 'Sky template is NGC1275_20190218_K.sky.fits'
+WCSDIM  =                    2
+LTV1    =    -501.442555745497
+LTV2    =    -509.796142698066
+LTM1_1  =    0.995083348151461
+LTM2_1  =  9.42099262115229E-5
+LTM1_2  =  4.37971796802124E-4
+LTM2_2  =    0.994996006258995
+WAT0_001= 'system=image'
+WAT1_001= 'wtype=tan axtype=ra'
+WAT2_001= 'wtype=tan axtype=dec'
+DISTCORR= 'WF-cam distortion model used: dist-k.dat'
+IMCMB001= 'im9925cbs'
+IMCMB002= 'im9925fbs'
+IMCMB003= 'im9925ibs'
+IMCMB004= 'im9925lbs'
+COMMENT   28 blank lines
+COMMENT Original key: "END"
+COMMENT
+COMMENT --Start of Astrometry.net WCS solution--
+COMMENT --Put in by the new-wcs program--
+COMMENT
+WCSAXES =                    2 / no comment
+CTYPE1  = 'RA---TAN-SIP' / TAN (gnomic) projection + SIP distortions
+CTYPE2  = 'DEC--TAN-SIP' / TAN (gnomic) projection + SIP distortions
+EQUINOX =               2000.0 / Equatorial coordinates definition (yr)
+LONPOLE =                180.0 / no comment
+LATPOLE =                  0.0 / no comment
+CRVAL1  =        49.9237250941 / RA  of reference point
+CRVAL2  =         41.492883954 / DEC of reference point
+CRPIX1  =                509.2 / X reference pixel
+CRPIX2  =                531.7 / Y reference pixel
+CUNIT1  = 'deg     ' / X pixel scale units
+CUNIT2  = 'deg     ' / Y pixel scale units
+CD1_1   =   -2.74663743279E-07 / Transformation matrix
+CD1_2   =    6.50510468237E-05 / no comment
+CD2_1   =    6.50677050544E-05 / no comment
+CD2_2   =    2.74485699327E-07 / no comment
+IMAGEW  =                 1545 / Image width,  in pixels.
+IMAGEH  =                 1547 / Image height, in pixels.
+A_ORDER =                    2 / Polynomial order, axis 1
+A_0_0   =                    0 / no comment
+A_0_1   =                    0 / no comment
+A_0_2   =   -1.55488903883E-07 / no comment
+A_1_0   =                    0 / no comment
+A_1_1   =   -5.52157324736E-07 / no comment
+A_2_0   =   -8.10342074995E-07 / no comment
+B_ORDER =                    2 / Polynomial order, axis 2
+B_0_0   =                    0 / no comment
+B_0_1   =                    0 / no comment
+B_0_2   =   -1.97047393323E-06 / no comment
+B_1_0   =                    0 / no comment
+B_1_1   =    1.16649298667E-06 / no comment
+B_2_0   =   -1.13123044117E-06 / no comment
+AP_ORDER=                    2 / Inv polynomial order, axis 1
+AP_0_0  =   -0.000303493317363 / no comment
+AP_0_1  =    1.33892618287E-07 / no comment
+AP_0_2  =    1.56334979831E-07 / no comment
+AP_1_0  =    4.03601761923E-07 / no comment
+AP_1_1  =     5.5333161133E-07 / no comment
+AP_2_0  =    8.12128785891E-07 / no comment
+BP_ORDER=                    2 / Inv polynomial order, axis 2
+BP_0_0  =   -0.000555302987272 / no comment
+BP_0_1  =    3.37858634225E-06 / no comment
+BP_0_2  =    1.97407820529E-06 / no comment
+BP_1_0  =   -1.80390488708E-06 / no comment
+BP_1_1  =   -1.16674010261E-06 / no comment
+BP_2_0  =    1.13311841673E-06 / no comment
+HISTORY Created by the Astrometry.net suite.
+HISTORY For more details, see http://astrometry.net.
+HISTORY Git URL https://github.com/dstndstn/astrometry.net
+HISTORY Git revision 0.79-26-g3e790b81
+HISTORY Git date Fri_Mar_6_16:15:11_2020_-0500
+HISTORY This WCS header was created by the program "blind".
+COMMENT Original WCS key: "DATE"
+_ATE    = '2020-04-21T14:52:17' / Date this file was created.
+COMMENT -- blind solver parameters: --
+COMMENT Index(0): /data1/INDEXES/200/index-219.fits
+COMMENT Index(1): /data1/INDEXES/200/index-218.fits
+COMMENT Index(2): /data1/INDEXES/200/index-217.fits
+COMMENT Index(3): /data1/INDEXES/200/index-216.fits
+COMMENT Index(4): /data1/INDEXES/200/index-215.fits
+COMMENT Index(5): /data1/INDEXES/200/index-214.fits
+COMMENT Index(6): /data1/INDEXES/200/index-213.fits
+COMMENT Index(7): /data1/INDEXES/200/index-212.fits
+COMMENT Index(8): /data1/INDEXES/200/index-211.fits
+COMMENT Index(9): /data1/INDEXES/200/index-210.fits
+COMMENT Index(10): /data1/INDEXES/200/index-209.fits
+COMMENT Index(11): /data1/INDEXES/200/index-208.fits
+COMMENT Index(12): /data1/INDEXES/200/index-207.fits
+COMMENT Index(13): /data1/INDEXES/200/index-206.fits
+COMMENT Index(14): /data1/INDEXES/200/index-205.fits
+COMMENT Index(15): /data1/INDEXES/200/index-204-11.fits
+COMMENT Index(16): /data1/INDEXES/200/index-204-10.fits
+COMMENT Index(17): /data1/INDEXES/200/index-204-09.fits
+COMMENT Index(18): /data1/INDEXES/200/index-204-08.fits
+COMMENT Index(19): /data1/INDEXES/200/index-204-07.fits
+COMMENT Index(20): /data1/INDEXES/200/index-204-06.fits
+COMMENT Index(21): /data1/INDEXES/200/index-204-05.fits
+COMMENT Index(22): /data1/INDEXES/200/index-204-04.fits
+COMMENT Index(23): /data1/INDEXES/200/index-204-03.fits
+COMMENT Index(24): /data1/INDEXES/200/index-204-02.fits
+COMMENT Index(25): /data1/INDEXES/200/index-204-01.fits
+COMMENT Index(26): /data1/INDEXES/200/index-204-00.fits
+COMMENT Index(27): /data1/INDEXES/200/index-203-11.fits
+COMMENT Index(28): /data1/INDEXES/200/index-203-10.fits
+COMMENT Index(29): /data1/INDEXES/200/index-203-09.fits
+COMMENT Index(30): /data1/INDEXES/200/index-203-08.fits
+COMMENT Index(31): /data1/INDEXES/200/index-203-07.fits
+COMMENT Index(32): /data1/INDEXES/200/index-203-06.fits
+COMMENT Index(33): /data1/INDEXES/200/index-203-05.fits
+COMMENT Index(34): /data1/INDEXES/200/index-203-04.fits
+COMMENT Index(35): /data1/INDEXES/200/index-203-03.fits
+COMMENT Index(36): /data1/INDEXES/200/index-203-02.fits
+COMMENT Index(37): /data1/INDEXES/200/index-203-01.fits
+COMMENT Index(38): /data1/INDEXES/200/index-203-00.fits
+COMMENT Index(39): /data1/INDEXES/200/index-202-11.fits
+COMMENT Index(40): /data1/INDEXES/200/index-202-10.fits
+COMMENT Index(41): /data1/INDEXES/200/index-202-09.fits
+COMMENT Index(42): /data1/INDEXES/200/index-202-08.fits
+COMMENT Index(43): /data1/INDEXES/200/index-202-07.fits
+COMMENT Index(44): /data1/INDEXES/200/index-202-06.fits
+COMMENT Index(45): /data1/INDEXES/200/index-202-05.fits
+COMMENT Index(46): /data1/INDEXES/200/index-202-04.fits
+COMMENT Index(47): /data1/INDEXES/200/index-202-03.fits
+COMMENT Index(48): /data1/INDEXES/200/index-202-02.fits
+COMMENT Index(49): /data1/INDEXES/200/index-202-01.fits
+COMMENT Index(50): /data1/INDEXES/200/index-202-00.fits
+COMMENT Index(51): /data1/INDEXES/200/index-201-11.fits
+COMMENT Index(52): /data1/INDEXES/200/index-201-10.fits
+COMMENT Index(53): /data1/INDEXES/200/index-201-09.fits
+COMMENT Index(54): /data1/INDEXES/200/index-201-08.fits
+COMMENT Index(55): /data1/INDEXES/200/index-201-07.fits
+COMMENT Index(56): /data1/INDEXES/200/index-201-06.fits
+COMMENT Index(57): /data1/INDEXES/200/index-201-05.fits
+COMMENT Index(58): /data1/INDEXES/200/index-201-04.fits
+COMMENT Index(59): /data1/INDEXES/200/index-201-03.fits
+COMMENT Index(60): /data1/INDEXES/200/index-201-02.fits
+COMMENT Index(61): /data1/INDEXES/200/index-201-01.fits
+COMMENT Index(62): /data1/INDEXES/200/index-201-00.fits
+COMMENT Index(63): /data1/INDEXES/200/index-200-11.fits
+COMMENT Index(64): /data1/INDEXES/200/index-200-10.fits
+COMMENT Index(65): /data1/INDEXES/200/index-200-09.fits
+COMMENT Index(66): /data1/INDEXES/200/index-200-08.fits
+COMMENT Index(67): /data1/INDEXES/200/index-200-07.fits
+COMMENT Index(68): /data1/INDEXES/200/index-200-06.fits
+COMMENT Index(69): /data1/INDEXES/200/index-200-05.fits
+COMMENT Index(70): /data1/INDEXES/200/index-200-04.fits
+COMMENT Index(71): /data1/INDEXES/200/index-200-03.fits
+COMMENT Index(72): /data1/INDEXES/200/index-200-02.fits
+COMMENT Index(73): /data1/INDEXES/200/index-200-01.fits
+COMMENT Index(74): /data1/INDEXES/200/index-200-00.fits
+COMMENT Index(75): /data1/INDEXES/4100/index-4119.fits
+COMMENT Index(76): /data1/INDEXES/4100/index-4118.fits
+COMMENT Index(77): /data1/INDEXES/4100/index-4117.fits
+COMMENT Index(78): /data1/INDEXES/4100/index-4116.fits
+COMMENT Index(79): /data1/INDEXES/4100/index-4115.fits
+COMMENT Index(80): /data1/INDEXES/4100/index-4114.fits
+COMMENT Index(81): /data1/INDEXES/4100/index-4113.fits
+COMMENT Index(82): /data1/INDEXES/4100/index-4112.fits
+COMMENT Index(83): /data1/INDEXES/4100/index-4111.fits
+COMMENT Index(84): /data1/INDEXES/4100/index-4110.fits
+COMMENT Index(85): /data1/INDEXES/4100/index-4109.fits
+COMMENT Index(86): /data1/INDEXES/4100/index-4108.fits
+COMMENT Index(87): /data1/INDEXES/4100/index-4107.fits
+COMMENT Field name: job.axy
+COMMENT Field scale lower: 0.23301 arcsec/pixel
+COMMENT Field scale upper: 419.417 arcsec/pixel
+COMMENT X col name: X
+COMMENT Y col name: Y
+COMMENT Start obj: 0
+COMMENT End obj: 0
+COMMENT Solved_in: (null)
+COMMENT Solved_out: (null)
+COMMENT Parity: 2
+COMMENT Codetol: 0.01
+COMMENT Verify pixels: 1 pix
+COMMENT Maxquads: 0
+COMMENT Maxmatches: 0
+COMMENT Cpu limit: 600.000000 s
+COMMENT Time limit: 0 s
+COMMENT Total time limit: 0 s
+COMMENT Total CPU limit: 0.000000 s
+COMMENT Tweak: yes
+COMMENT Tweak AB order: 2
+COMMENT Tweak ABP order: 2
+COMMENT --
+COMMENT -- properties of the matching quad: --
+COMMENT index id: 200
+COMMENT index healpix: 0
+COMMENT index hpnside: 1
+COMMENT log odds: 209.749
+COMMENT odds: 1.23856e+91
+COMMENT quadno: 0
+COMMENT stars: 0,0,0,0
+COMMENT field: 0,0,0,0
+COMMENT code error: 0
+COMMENT nmatch: 45
+COMMENT nconflict: 1
+COMMENT nfield: 382
+COMMENT nindex: 49
+COMMENT scale: 0.234216 arcsec/pix
+COMMENT parity: 0
+COMMENT quads tried: 0
+COMMENT quads matched: 0
+COMMENT quads verified: 0
+COMMENT objs tried: 1
+COMMENT cpu time: 0.724
+COMMENT --
+COMMENT
+COMMENT --End of Astrometry.net WCS--
+COMMENT --(Put in by the new-wcs program)--
+COMMENT
+END
